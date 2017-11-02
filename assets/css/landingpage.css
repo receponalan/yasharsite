@@ -1,0 +1,58 @@
+@media (min-width:1200px) {
+  #icerik {
+    background-color:white;
+    opacity:0.8;
+    margin-top:10%;
+    margin-left:30%;
+    margin-right:30%;
+    margin-bottom:10%;
+  }
+}
+
+@media (max-width:1199px) {
+  #icerik {
+    background-color:white;
+    opacity:0.5;
+    margin-top:10%;
+    margin-left:10%;
+    margin-right:10%;
+    margin-bottom:10%;
+  }
+}
+
+@media (max-width:991px) {
+  #icerik {
+    background-color:white;
+    opacity:0.5;
+    margin-top:10%;
+    margin-left:20px;
+    margin-right:20px;
+  }
+}
+
+@media (max-width:767px) {
+  #icerik {
+    background-color:white;
+    opacity:0.5;
+    margin-top:10%;
+    margin-left:20px;
+    margin-right:20px;
+  }
+}
+
+.icerik.h1 {
+  text-align:center;
+  color:rgb(255,0,0);
+  font-size:50px;
+  font-weight:500;
+}
+
+.icerik.p {
+  text-align:justify;
+  font-size: 1.8rem;
+  color:black;
+  
+}
+#dahafazla{
+    margin-bottom: 2rem;
+}

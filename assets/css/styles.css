@@ -1,0 +1,63 @@
+.row.footluk {
+  margin-top:-20px;
+  margin-bottom:5px;
+}
+
+.navigation-clean.navbar .navbar-nav.kesif > li > a {
+  background:red;
+  color:white;
+  font-weight:bold;
+  border-left:1px dotted white;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a {
+  color:red;
+}
+
+.jumbotron h1, .jumbotron .h1 .yasaritani {
+  color:white;
+  font-weight:500;
+}
+
+.navigation-clean.navbar-default .navbar-nav > li > a:focus, .navigation-clean.navbar-default .navbar-nav.kesif > li > a:hover {
+  background:none;
+  border-bottom:3px solid red;
+  color:red;
+}
+
+.jumbotron.kafa {
+  padding-top:0px;
+  background:url(../../assets/img/Jumbotronresimleri/jumbo_about.png) no-repeat;
+  background-size:cover;
+}
+
+.jumbotron.mesaj {
+  padding-top:0;
+}
+
+.jumbotron.tarih {
+  padding-top:0;
+}
+
+.jumbotron.urunler {
+  padding-top:0;
+}
+
+.jumbotron.yasaritani {
+  padding-top:0;
+  background:url(yasaritani/surd-ulker_com_banner.jpg) no-repeat;
+  background-size:cover;
+  height:350px;
+}
+
+.jumbotron p .about {
+  color:rgb(255,0,0);
+}
+
+.jumbotron p.yasaritani {
+  margin-bottom:15px;
+  font-size:23px;
+  font-weight:200;
+  color:white;
+}
+
